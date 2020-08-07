@@ -1,5 +1,6 @@
 @import "./Styles/Header.css";
-
+@import "./Styles//Home.css";
+@import "./Styles/Product.css";
 * {
   margin: 0;
 }
